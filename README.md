@@ -2,7 +2,7 @@
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.14.0-FF6F00?logo=tensorflow)](https://www.tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-v2.1.0-EE4C2C?logo=pytorch)](https://pytorch.org)
-[![Keras](https://img.shields.io/badge/Keras-v2.14.0-D00000?logo=pandas)](https://keras.io)
+[![Keras](https://img.shields.io/badge/Keras-v2.14.0-D00000?logo=keras)](https://keras.io)
 
 El repositorio contiene trabajos realizados en el curso de Topicos avanzados de estadística I que trata temas de Inteligencia Artificial
 
